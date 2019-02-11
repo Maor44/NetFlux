@@ -1,0 +1,13 @@
+{
+  "main.css": "/netflux/static/css/main.1f5b893e.chunk.css",
+  "main.js": "/netflux/static/js/main.d855dc02.chunk.js",
+  "main.js.map": "/netflux/static/js/main.d855dc02.chunk.js.map",
+  "static/js/1.3ef4cda0.chunk.js": "/netflux/static/js/1.3ef4cda0.chunk.js",
+  "static/js/1.3ef4cda0.chunk.js.map": "/netflux/static/js/1.3ef4cda0.chunk.js.map",
+  "runtime~main.js": "/netflux/static/js/runtime~main.9952bc97.js",
+  "runtime~main.js.map": "/netflux/static/js/runtime~main.9952bc97.js.map",
+  "static/css/main.1f5b893e.chunk.css.map": "/netflux/static/css/main.1f5b893e.chunk.css.map",
+  "index.html": "/netflux/index.html",
+  "precache-manifest.276739c6f3d88efb45e41f71f20a6729.js": "/netflux/precache-manifest.276739c6f3d88efb45e41f71f20a6729.js",
+  "service-worker.js": "/netflux/service-worker.js"
+}
